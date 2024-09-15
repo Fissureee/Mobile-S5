@@ -8,7 +8,7 @@ void main() {
       }
     }
     if (isPrime) {
-      print(i);
+      print("Steven Christian Susanto / 2241720003");
     }
   }
 }

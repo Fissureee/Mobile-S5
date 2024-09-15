@@ -116,3 +116,9 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan 
 * There is a few errors, first the statement If and Else If should be typed if and else if, secondly the Index should be typed index.
 ![alt text](image-9.png)
 * There is no output because the else if checks if the index is bigger than 1 or lower than 7, if the condition is met it will execute continue which will skip all the code below it and continues to the next itteration, it will keep doing that because the value will always be bigger than 1.
+
+# Tugas Praktikum
+
+Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
+
+![alt text](image-10.png)
